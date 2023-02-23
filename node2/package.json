@@ -1,0 +1,16 @@
+{
+  "name": "nodepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node10.js",
+    "start-server": "node node10.js"
+  },
+  "author": "atib",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
